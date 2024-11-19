@@ -1,0 +1,34 @@
+﻿<Window x:Class="POD_Booking_PRN_Wpf.PaymentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POD_Booking_PRN_Wpf"
+        mc:Ignorable="d"
+        Title="PaymentWindow" Height="600" Width="1080" Background="#00994C" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Fill="Beige" Height="584" Stroke="Black" VerticalAlignment="Center" Width="283"/>
+
+        <Label Content="PAYMENT METHOD" FontSize="45" Foreground="Beige" FontWeight="Bold" HorizontalAlignment="Left" Margin="454,36,0,0" VerticalAlignment="Top" Height="90" Width="446"/>
+        <Rectangle HorizontalAlignment="Left" Height="394" Fill="Beige" Margin="379,126,0,0" Stroke="Transparent" RadiusX="40" RadiusY="40"  VerticalAlignment="Top" Width="620"/>
+        <Button x:Name="btnBack"  Content="Back" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="Button_Back" Height="25" Width="65" FontWeight="Bold"/>
+        <Label Content="Payment information" FontSize="25"  FontWeight="Bold" HorizontalAlignment="Left" Margin="556,139,0,0" VerticalAlignment="Top" Height="47" Width="266"/>
+        <Label Content="Number:" HorizontalAlignment="Left" FontSize="15" FontWeight="Bold" Margin="412,250,0,0" VerticalAlignment="Top" Height="33" Width="84"/>
+        <TextBox x:Name="txtNumber" HorizontalAlignment="Left" Margin="511,255,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="407" Height="23" TextChanged="txtNumber_TextChanged"/>
+
+        <Label Content="Select Bank:" HorizontalAlignment="Left" FontSize="15" FontWeight="Bold" Margin="412,196,0,0" VerticalAlignment="Top" Height="33" Width="109"/>
+        <TextBox x:Name="txtNameOfBank" HorizontalAlignment="Left" Margin="511,310,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="407" Height="23" TextChanged="txtNumber_TextChanged"/>
+        <Label Content="Name:" HorizontalAlignment="Left" FontSize="15" FontWeight="Bold" Margin="412,305,0,0" VerticalAlignment="Top" Height="33" Width="65"/>
+        <Label Content="Release date:" HorizontalAlignment="Left" FontSize="15" FontWeight="Bold" Margin="412,358,0,0" VerticalAlignment="Top" Height="33" Width="116"/>
+        <TextBox x:Name="txtReleaseDate" HorizontalAlignment="Left" Margin="543,363,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="117" Height="23"/>
+        <Button x:Name="btnCancel" Content="Cancel" FontSize="13" Foreground="Beige" Background="#00994C" FontWeight="Bold"     HorizontalAlignment="Left" Margin="584,463,0,0" VerticalAlignment="Top" Height="36" Width="104" Click="Button_Click"/>
+        <Button x:Name="btnContinue" Content="Continue" FontSize="13" Foreground="Beige"  Background="#00994C" FontWeight="Bold"     HorizontalAlignment="Left" Margin="703,462,0,0" VerticalAlignment="Top" Height="37" Width="104" Click="Button_Click_1"/>
+        <Label Content="Amount to transfer:" FontSize="15" HorizontalAlignment="Left" FontWeight="Bold" Margin="412,412,0,0" VerticalAlignment="Top" Height="33" Width="170"/>
+        <ComboBox x:Name="cbBank" HorizontalAlignment="Left" Margin="540,198,0,0" VerticalAlignment="Top" Width="201" Height="28"/>
+        <Label Content="Booking information" FontSize="20"  FontWeight="Bold" HorizontalAlignment="Left" Margin="38,81,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PriceValue" Content="0$:" FontSize="15" Foreground="Red" HorizontalAlignment="Left" FontWeight="Bold" Margin="571,412,0,0" VerticalAlignment="Top" Height="33" Width="170"/>
+
+
+
+    </Grid>
+</Window>

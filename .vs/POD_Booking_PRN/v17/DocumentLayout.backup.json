@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\prn212\\khang\\POD_Booking_PRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\manageuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\manageuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\roommanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\roommanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5609BD0F-E9B8-44F9-A2D9-F5B938028983}|Repositories\\Repositories.csproj|e:\\prn212\\khang\\pod_booking_prn\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5609BD0F-E9B8-44F9-A2D9-F5B938028983}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD646D5-447B-458D-BB6B-054583BF72B4}|Services\\Services.csproj|e:\\prn212\\khang\\pod_booking_prn\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD646D5-447B-458D-BB6B-054583BF72B4}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD646D5-447B-458D-BB6B-054583BF72B4}|Services\\Services.csproj|e:\\prn212\\khang\\pod_booking_prn\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD646D5-447B-458D-BB6B-054583BF72B4}|Services\\Services.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5609BD0F-E9B8-44F9-A2D9-F5B938028983}|Repositories\\Repositories.csproj|e:\\prn212\\khang\\pod_booking_prn\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5609BD0F-E9B8-44F9-A2D9-F5B938028983}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C2C887-E03E-4FDE-BF7A-18023B6562CC}|DataAccessLayer\\DataAccessLayer.csproj|e:\\prn212\\khang\\pod_booking_prn\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C2C887-E03E-4FDE-BF7A-18023B6562CC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\managebuildingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\managebuildingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|e:\\prn212\\khang\\pod_booking_prn\\pod_booking_prn_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F08C534-476E-4452-8F8B-9A120C57F79B}|POD_Booking_PRN_Wpf\\POD_Booking_PRN_Wpf.csproj|solutionrelative:pod_booking_prn_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C2C887-E03E-4FDE-BF7A-18023B6562CC}|DataAccessLayer\\DataAccessLayer.csproj|e:\\prn212\\khang\\pod_booking_prn\\dataaccesslayer\\buildingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C2C887-E03E-4FDE-BF7A-18023B6562CC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\buildingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\BookingWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\BookingWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:06:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\LoginWindow.xaml",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\LoginWindow.xaml",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T09:03:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:55:33.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:01:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\LoginWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:49:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\RegisterWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:49:00.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomManagementWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\RoomManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\RoomManagementWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\RoomManagementWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\RoomManagementWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:18:16.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageUserWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\ManageUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\ManageUserWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\ManageUserWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\ManageUserWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:37:11.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:30:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:01:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:55:32.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:53:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\MainWindow.xaml",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T08:26:25.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageBuildingWindow.xaml.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\ManageBuildingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POD_Booking_PRN_Wpf\\ManageBuildingWindow.xaml.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\POD_Booking_PRN_Wpf\\ManageBuildingWindow.xaml.cs",
+              "RelativeToolTip": "POD_Booking_PRN_Wpf\\ManageBuildingWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:56:35.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuildingDAO.cs",
+              "DocumentMoniker": "E:\\prn212\\khang\\POD_Booking_PRN\\DataAccessLayer\\BuildingDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BuildingDAO.cs",
+              "ToolTip": "E:\\prn212\\khang\\POD_Booking_PRN\\DataAccessLayer\\BuildingDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BuildingDAO.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:46:09.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

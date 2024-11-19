@@ -1,0 +1,83 @@
+﻿<Window x:Class="POD_Booking_PRN_Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Loaded="Window_loaded"
+        xmlns:local="clr-namespace:POD_Booking_PRN_Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="435" Stroke="Black" 
+           Fill="LightSeaGreen" VerticalAlignment="Center" Width="166"
+           Panel.ZIndex="1">
+            <Rectangle.Effect>
+                <DropShadowEffect Color="Black" Direction="0" ShadowDepth="10" Opacity="0.6" BlurRadius="12"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Center" Height="76" 
+                   Stroke="Black" VerticalAlignment="Top" Width="800"
+                   Fill="LightBlue" Panel.ZIndex="0"/>
+        <Label Content="Menu" FontSize="30" HorizontalAlignment="Left" Height="66" Margin="35,10,0,0" VerticalAlignment="Top" 
+                Panel.ZIndex="2" Width="91" FontFamily=".VnBahamasBH"/>
+        <Button x:Name="btnBuilding"
+                Content="Manage Building"
+                
+                Panel.ZIndex="2"
+                FontSize="16"
+                BorderThickness="0"
+                FontFamily=".VnCooper"
+                Background="Transparent"
+                HorizontalAlignment="Left" Height="53" Margin="5,108,0,0" VerticalAlignment="Top" Width="161" Click="btnBuilding_Click" />
+        <Button x:Name="btnRoom"
+            Content="Manage Room"
+                BorderThickness="0"
+            Panel.ZIndex="2"
+                 FontSize="16"
+ FontFamily=".VnCooper"
+Background="Transparent"
+                Margin="0,259,0,0"
+            HorizontalAlignment="Left" Height="53" VerticalAlignment="Top" Width="161" Click="btnRoom_Click"/>
+        <Button x:Name="btnUser"
+            Content="Manage User"
+            Panel.ZIndex="2"
+                BorderThickness="0"
+                 FontSize="16"
+ FontFamily=".VnCooper"
+ Background="Transparent"
+            HorizontalAlignment="Left" Height="53" Margin="0,180,0,0" VerticalAlignment="Top" Width="161" Click="btnUser_Click"/>
+        <TextBlock FontFamily=".VnBahamasBH"
+                   FontSize="40" TextAlignment="Center"
+                   Height="76" Margin="166,0,0,0" TextWrapping="Wrap" Text="WELCOME TO BEYOND DESK" VerticalAlignment="Top" Width="634"/>
+        <Rectangle HorizontalAlignment="Left" Height="407" Margin="161,76,0,0" Stroke="Black" VerticalAlignment="Top" Width="639" Opacity="0.8">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/blueCity.png"/>
+            </Rectangle.Fill>
+
+        </Rectangle>
+        <Rectangle 
+            Fill="#FFCAC3C3"
+            HorizontalAlignment="Left" Height="211" Margin="180,101,0,0" Stroke="Black" VerticalAlignment="Top" Width="610" Opacity="0.75" RadiusX="20" RadiusY="20"/>
+        <TextBlock HorizontalAlignment="Left" 
+                   FontSize="14"
+                   TextAlignment="Justify"
+                   FontWeight="Bold" Foreground="Black"
+                   Height="200" Margin="193,141,0,0" TextWrapping="Wrap" Text="Beyond Desk is dedicated to transforming the way you work by offering a seamless and efficient workspace booking experience. We provide access to a wide variety of workspaces tailored to your needs. Our mission is to empower your productivity by connecting you with inspiring environments, flexible schedules, and all the amenities you require. At Beyond Desk, we believe that where you work influences how you work, and we are here to help you unlock your full potential. Choose Beyond Desk and elevate your work experience to a whole new level of convenience and innovation" VerticalAlignment="Top" Width="581"/>
+        <TextBlock FontFamily=".VnBahamasBH"
+               FontSize="35"
+               Foreground="#FFD700"
+            Text="Why Choose Beyond Desk " HorizontalAlignment="Left" Height="64" Margin="253,72,0,0" VerticalAlignment="Top" Width="501">
+            <TextBlock.Effect>
+                <DropShadowEffect Color="Black" BlurRadius="5" ShadowDepth="2" Opacity="0.7" />
+            </TextBlock.Effect>
+        </TextBlock>
+        <Button x:Name="btnBookNow"
+            Content="B O O K N O W" 
+                FontSize="16"
+                FontWeight="ExtraBold"
+                Foreground="White"
+                Background="ForestGreen"
+                BorderBrush="DarkBlue"
+                HorizontalAlignment="Left" Height="53" Margin="374,359,0,0" VerticalAlignment="Top" Width="214" Click="btnBookNow_Click"/>
+    </Grid>
+</Window>
